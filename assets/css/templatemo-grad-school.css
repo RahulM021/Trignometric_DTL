@@ -180,7 +180,7 @@ a.menu-link { display: none; }
  @media screen and (max-width: 844px){
   .main-header {
     background-color: rgba(22,34,57,0.95);
-    height: 160px;
+    height: 73px;
     position: fixed;
     z-index: 12;
     width: 100%;
